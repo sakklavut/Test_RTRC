@@ -1,0 +1,34 @@
+*{
+    padding: 1%;
+    margin: 0%;
+}
+
+.grid{
+    display: grid;
+    grid: auto auto;
+    background-color: #E93830;
+    font-size: 20px;
+    text-align: center;
+    
+    
+    
+}
+
+.container{
+    font-size: 18px;
+    
+}
+
+.pic{
+    width: 383px;
+    height: 437px;
+}
+
+.pic2{
+    width: 384px;
+    height: 514px;
+}
+body{
+    background: rgb(255, 255, 255);
+    
+}
